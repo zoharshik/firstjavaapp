@@ -1,0 +1,8 @@
+package com.ZoharShikler
+
+public class main {
+
+    public static void main(string[] args) {
+        system.out.println("this is my first program in jave");
+        }
+    }
